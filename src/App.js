@@ -1,10 +1,10 @@
 import './App.css';
-import PostList from './components/PostList';
+import ParentLifecycle from './components/ParentLifecycle';
 
 function App() {
   return (
     <div className="App">
-      <PostList />
+      <ParentLifecycle />
     </div>
   );
 }
